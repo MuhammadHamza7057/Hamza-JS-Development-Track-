@@ -2,7 +2,7 @@
 
 I’m **Hamza**, a software engineer dedicated to mastering JavaScript. This repo follows my structured learning journey, from basic concepts to advanced techniques. It includes day-by-day learning, projects, and regular updates as I refine my skills toward full-stack development.
 
-![JavaScript Learning](https://cyberhoot.com/wp-content/uploads/2020/07/Free-Courses-to-learn-JavaScript.jpg)
+![JavaScript Learning](https://bairesdev.mo.cloudinary.net/blog/2023/08/What-Is-JavaScript-Used-For.jpg)
 
 ## What’s inside:
 - **Day-wise learning**: A clear, organized approach to mastering JavaScript.
