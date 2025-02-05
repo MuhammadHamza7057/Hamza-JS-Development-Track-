@@ -1,0 +1,1 @@
+console.log("Welcome to JavaScript Langauge and in one month i will master it.");
