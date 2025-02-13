@@ -1,0 +1,49 @@
+/* Dark mode styling */
+body {
+  background-color: #121212;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: "Arial", sans-serif;
+}
+
+/* Clock container */
+.clock-container {
+  background: #222;
+  padding: 20px 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Clock display */
+#clock {
+  font-size: 50px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  #clock {
+    font-size: 40px;
+  }
+
+  .clock-container {
+    padding: 15px 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  #clock {
+    font-size: 30px;
+  }
+
+  .clock-container {
+    padding: 10px 20px;
+  }
+}
