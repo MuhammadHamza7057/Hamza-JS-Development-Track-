@@ -1,0 +1,62 @@
+/* Styling the box */
+#box {
+  width: 100px;
+  height: 100px;
+  background: red;
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+}
+
+/* Styling when hovered */
+#box:hover {
+  background: darkred;
+}
+
+/* Input field */
+#myInput {
+  display: block;
+  margin: 20px 0;
+  padding: 8px;
+  font-size: 16px;
+}
+
+/* Button styling */
+button {
+  padding: 10px 15px;
+  background: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: darkgreen;
+}
+
+/* Drag & Drop Elements */
+#dragItem {
+  width: 50px;
+  height: 50px;
+  background: blue;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  margin: 20px;
+  cursor: grab;
+}
+
+#dropZone {
+  width: 200px;
+  height: 100px;
+  background: lightgray;
+  text-align: center;
+  line-height: 100px;
+  margin: 20px;
+  border: 2px dashed gray;
+}
